@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80%" alt="Coding Animation">
+</p>
+
 ### Olá! Sou a Wislainy 👋
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header&text=Engenharia%20de%20Software&fontSize=22&fontColor=ffffff"/>
