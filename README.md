@@ -1,8 +1,8 @@
-### Olá! Sou a Wislainy 👋
-
 <p align="center">
-  <img src="https://media.tenor.com/ptYx6pie-JYAAAAe/coraline.png" width="40%" align="right" alt="Coraline Pixel Art">
+  <img src="https://raw.githubusercontent.com/wislainycodes-devs/wislainycodes-devs/main/perfil-coraline.png" width="100%" alt="Wislainy Codes Coraline Banner">
 </p>
+
+### Olá! Sou a Wislainy 👋
 
 Estudante de Engenharia de Software no 3º período na Faculdade Metropolitana de Anápolis (FAMA). O meu foco é praticar constantemente, construir soluções reais e evoluir profissionalmente na área de desenvolvimento.
 
