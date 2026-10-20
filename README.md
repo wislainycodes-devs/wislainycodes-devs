@@ -1,5 +1,7 @@
 ### Olá! Sou a Wislainy 👋
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header&text=Engenharia%20de%20Software&fontSize=22&fontColor=ffffff"/>
+
 Estudante de Engenharia de Software no 3º período na Faculdade Metropolitana de Anápolis (FAMA). O meu foco é praticar constantemente, construir soluções reais e evoluir profissionalmente na área de desenvolvimento.
 
 ---
@@ -12,26 +14,22 @@ Estudante de Engenharia de Software no 3º período na Faculdade Metropolitana d
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** C, Python, JavaScript
-- **Web:** HTML5, CSS3
-- **Controlo de Versão e Ferramentas:** Git, GitHub, Linux, Power BI, Excel
+<p>
+  <img src="https://img.shields.io/badge/C-ff69b4?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Python-ff1493?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-ffb6c1?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Git-ff1493?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-c71585?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+- **Outras ferramentas:** Linux, Power BI, Excel
 
 ---
 
-### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wislainycodes-devs&show_icons=true&theme=radical)
-
-<!--
-**wislainycodes-devs/wislainycodes-devs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Estatísticas e Atividade
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wislainycodes-devs&show_icons=true&theme=vue&hide_border=true&icon_color=ff69b4&title_color=ff69b4" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wislainycodes-devs&layout=compact&theme=vue&hide_border=true&title_color=ff69b4" width="48%" />
+</p>
