@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80%" alt="Coding Animation">
-</p>
-
 ### Olá! Sou a Wislainy 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header&text=Engenharia%20de%20Software&fontSize=22&fontColor=ffffff"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="45%" align="right" alt="Animation">
+</p>
 
 Estudante de Engenharia de Software no 3º período na Faculdade Metropolitana de Anápolis (FAMA). O meu foco é praticar constantemente, construir soluções reais e evoluir profissionalmente na área de desenvolvimento.
 
