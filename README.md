@@ -1,15 +1,15 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=90&pause=1500&color=FF4D94&center=true&vCenter=true&width=600&height=70&lines=Ol%C3%A1...;Me+chamo+Wislainy+%F0%9F%92%97" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=700&random=true&color=FF4D94&center=true&vCenter=true&width=600&height=70&lines=Ol%C3%A1...;Me+chamo+Wislaniy;Me+chamo+Wislainy+%F0%9F%92%97" /></a>
 
 </div>
 
-<table>
+<table border="0">
 <tr>
-<td width="45%" align="center">
-<img src="./coraline.png" width="100%" alt="Coraline programando à noite" />
+<td width="45%" align="center" valign="bottom">
+<img src="./coraline.png" width="100%" alt="Coraline programando" />
 </td>
-<td width="55%">
+<td width="55%" valign="middle">
 
 ### 🚪 Sobre mim
 Sou estudante de **Engenharia de Software** no Centro Universitário FAMA, em Anápolis - GO, no 3º semestre (2025–2029).
@@ -67,5 +67,9 @@ Gosto de entender como as coisas funcionam por dentro e de transformar ideias em
 </div>
 
 ## 💌 Vamos conversar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF4D94?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK)
-[![Email](https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoCo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF4D94?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/wislainy-santos?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=100&section=footer" />
+</div>
