@@ -1,7 +1,7 @@
 ### Olá! Sou a Wislainy 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="45%" align="right" alt="Animation">
+  <img src="https://media.tenor.com/ptYx6pie-JYAAAAe/coraline.png" width="40%" align="right" alt="Coraline Pixel Art">
 </p>
 
 Estudante de Engenharia de Software no 3º período na Faculdade Metropolitana de Anápolis (FAMA). O meu foco é praticar constantemente, construir soluções reais e evoluir profissionalmente na área de desenvolvimento.
