@@ -19,7 +19,7 @@
 Sou estudante de **Engenharia de Software** no Centro Universitário FAMA, no 3º semestre (2025–2029).
 
 Gosto de entender como as coisas realmente funcionam.
-🪡 Aprendendo: **C, estruturas de dados e Python**  
+🪡 Aprendendo: **C, estruturas de dados, Python, redes e análise de dados**  
 🐈‍⬛ Sempre com um projeto novo na cabeça
 
 </td>
@@ -34,6 +34,8 @@ Gosto de entender como as coisas realmente funcionam.
 
 -  Linguagem C e estruturas de dados (BST, AVL)
 -  Python
+-  Redes de computadores
+-  Análise de dados
 -  Estruturas de dados e lógica de programação
 -  Desenvolvimento de projetos pessoais e estudo contínuo
 
@@ -65,4 +67,19 @@ Gosto de entender como as coisas realmente funcionam.
 
 ---
 
-## Meus
+## Meus números
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=wislainycodes-devs&show_icons=true&hide_border=true&bg_color=FFF0F6&title_color=FF4D94&icon_color=FF69B4&text_color=7A3B5C)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=wislainycodes-devs&layout=compact&hide_border=true&bg_color=FFF0F6&title_color=FF4D94&text_color=7A3B5C)
+
+</div>
+
+## outras redes sociais:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF4D94?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wislainy-santos)
+
+<div align="center">
+<img src="./ondas.svg" width="100%" alt="Ondas rosas se movendo" />
+</div>
