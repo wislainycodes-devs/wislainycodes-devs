@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=700&random=true&color=FF4D94&center=true&vCenter=true&width=600&height=70&lines=Ol%C3%A1...;Me+chamo+Wislainy;Me+chamo+Wislainy+%F0%9F%92%97" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=FF4D94&center=true&vCenter=true&width=650&height=60&repeat=true&lines=printf(%22Ol%C3%A1%2C+mundo!%22)%3B;nome+%3D+%22Wislainy%22;print(%22Estudante+de+Eng.+de+Software+%F0%9F%92%97%22);while+True%3A+aprender()" /></a>
 
 </div>
 
@@ -44,4 +44,37 @@ Gosto de entender como as coisas realmente funcionam.
 <br>
 
 -  **Você Cairia Nessa?**: simulador de golpes digitais (Projeto Integrador, FAMA)
--  **Ranking de jogadores**: implementação em C
+-  **Ranking de jogadores**: implementação em C com árvore AVL
+-  Projetos em desenvolvimento para praticar lógica, Python e C
+
+</details>
+
+<details>
+<summary>🐈‍⬛ <b>Minhas tecnologias</b> (clique para abrir)</summary>
+<br>
+
+![C](https://img.shields.io/badge/C-FF69B4?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF4D94?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-DB2777?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-F9A8D4?style=for-the-badge&logo=github&logoColor=black)
+
+</details>
+
+---
+
+## Meus números
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=wislainycodes-devs&show_icons=true&hide_border=true&bg_color=FFF0F6&title_color=FF4D94&icon_color=FF69B4&text_color=7A3B5C)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=wislainycodes-devs&layout=compact&hide_border=true&bg_color=FFF0F6&title_color=FF4D94&text_color=7A3B5C)
+
+</div>
+
+## outras redes sociais:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF4D94?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wislainy-santos)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=100&section=footer" />
+</div>
