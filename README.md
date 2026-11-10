@@ -1,80 +1,15 @@
-<div align="center">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=FF4D94&center=true&vCenter=true&width=650&height=60&repeat=true&lines=printf(%22Ol%C3%A1%2C+mundo!%22)%3B;nome+%3D+%22Wislainy%22;print(%22Estudante+de+Eng.+de+Software+%F0%9F%92%97%22);while+True%3A+aprender()" /></a>
-
-</div>
-
-<div align="center">
-<img src="./gato.svg" width="100%" alt="Gato preto andando" />
-</div>
-
-<table border="0">
-<tr>
-<td width="45%" align="center" valign="bottom">
-  <img src="./coraline.png" width="100%" alt="Coraline programando" />
-</td>
-<td width="55%" valign="middle">
-
-### Sobre mim
-Sou estudante de **Engenharia de Software** no Centro Universitário FAMA, no 3º semestre (2025–2029).
-
-Gosto de entender como as coisas realmente funcionam.
-🪡 Aprendendo: **C, estruturas de dados e Python**  
-🐈‍⬛ Sempre com um projeto novo na cabeça
-
-</td>
-</tr>
-</table>
-
----
-
-<details>
-<summary>🪡 <b>O que estou estudando</b> (clique para abrir)</summary>
-<br>
-
--  Linguagem C e estruturas de dados (BST, AVL)
--  Python
--  Estruturas de dados e lógica de programação
--  Desenvolvimento de projetos pessoais e estudo contínuo
-
-</details>
-
-<details>
-<summary>🧵 <b>Meus projetos</b> (clique para abrir)</summary>
-<br>
-
--  **Você Cairia Nessa?**: simulador de golpes digitais (Projeto Integrador, FAMA)
--  **Ranking de jogadores**: implementação em C com árvore AVL
--  Projetos em desenvolvimento para praticar lógica, Python e C
-
-</details>
-
-<details>
-<summary>🐈‍⬛ <b>Minhas tecnologias</b> (clique para abrir)</summary>
-<br>
-
-![C](https://img.shields.io/badge/C-FF69B4?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FF4D94?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-DB2777?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-F9A8D4?style=for-the-badge&logo=github&logoColor=black)
-
-</details>
-
----
-
-## Meus números
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=wislainycodes-devs&show_icons=true&hide_border=true&bg_color=FFF0F6&title_color=FF4D94&icon_color=FF69B4&text_color=7A3B5C)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=wislainycodes-devs&layout=compact&hide_border=true&bg_color=FFF0F6&title_color=FF4D94&text_color=7A3B5C)
-
-</div>
-
-## outras redes sociais:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF4D94?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wislainy-santos)
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=100&section=footer" />
-</div>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wislainy e o gato</title>
+<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root { --bg:#FFF0F6; --rosa:#FF4D94; --claro:#F9A8D4; --texto:#7A3B5C; }
+  * { box-sizing:border-box; }
+  html, body { margin:0; height:100%; overflow:hidden; background:var(--bg); color:var(--texto); font-family:'Fira Code',monospace; }
+  main { position:fixed; top:0; left:0; right:0; padding:28px 20px; text-align:center; pointer-events:none; }
+  h1 { margin:0 0 6px; font-size:clamp(20px,4vw,32px); color:var(--rosa); }
+  p { margin:0; font-size:14px; }
+  button { pointer-events:auto; margin-top:14px; font:600 14px 'Fira
