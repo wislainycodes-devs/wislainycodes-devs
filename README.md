@@ -43,6 +43,7 @@ Gosto de entender como as coisas realmente funcionam.
 <summary>🧵 <b>Meus projetos</b> (clique para abrir)</summary>
 <br>
 
+-  🎬 **[Wix Autocut](https://github.com/wislainycodes-devs/wix_autocut)**: ferramenta em Python e Gradio que transforma vídeos longos em clipes verticais (9:16) com transcrição por IA (Whisper) e corte com FFmpeg. Aceita upload de vídeo ou link do YouTube (`yt-dlp`) e roda na nuvem no Render com deploy automático pelo GitHub. [Ver o site](https://wix-autocut.onrender.com)
 -  **Você Cairia Nessa?**: simulador de golpes digitais (Projeto Integrador, FAMA)
 -  **Ranking de jogadores**: implementação em C com árvore AVL
 -  Projetos em desenvolvimento para praticar lógica, Python e C
@@ -55,6 +56,8 @@ Gosto de entender como as coisas realmente funcionam.
 
 ![C](https://img.shields.io/badge/C-FF69B4?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FF4D94?style=for-the-badge&logo=python&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-F9A8D4?style=for-the-badge&logo=gradio&logoColor=black)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-DB2777?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-DB2777?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-F9A8D4?style=for-the-badge&logo=github&logoColor=black)
 
@@ -62,19 +65,4 @@ Gosto de entender como as coisas realmente funcionam.
 
 ---
 
-## Meus números
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=wislainycodes-devs&show_icons=true&hide_border=true&bg_color=FFF0F6&title_color=FF4D94&icon_color=FF69B4&text_color=7A3B5C)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=wislainycodes-devs&layout=compact&hide_border=true&bg_color=FFF0F6&title_color=FF4D94&text_color=7A3B5C)
-
-</div>
-
-## outras redes sociais:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF4D94?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wislainy-santos)
-
-<div align="center">
-<img src="./ondas.svg" width="100%" alt="Ondas rosas se movendo" />
-</div>
+## Meus
