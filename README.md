@@ -6,6 +6,8 @@
 
 <div align="center">
 <img src="./gato.svg" width="100%" alt="Gato preto andando" />
+<br>
+<a href="https://wislainycodes-devs.github.io/wislainycodes-devs/">🐈‍⬛ Clique aqui e brinque com o gato</a>
 </div>
 
 <table border="0">
@@ -45,7 +47,7 @@ Gosto de entender como as coisas realmente funcionam.
 <summary>🧵 <b>Meus projetos</b> (clique para abrir)</summary>
 <br>
 
--  🎬 **[Wix Autocut](https://github.com/wislainycodes-devs/wix_autocut)**: ferramenta em Python e Gradio que transforma vídeos longos em clipes verticais (9:16) com transcrição por IA (Whisper) e corte com FFmpeg. Aceita upload de vídeo ou link do YouTube (`yt-dlp`) e roda na nuvem no Render com deploy automático pelo GitHub. [Ver o site](https://wix-autocut.onrender.com)
+-  🎬 **[Wix Autocut](https://github.com/wislainycodes-devs/wix_autocut)**: ferramenta em Python e Gradio que transforma vídeos longos em clipes verticais (9:16) com transcrição por IA (Whisper) e corte com FFmpeg. Aceita upload de vídeo ou link do YouTube (`yt-dlp`) e roda na nuvem no Render com deploy automático pelo GitHub.
 -  **Você Cairia Nessa?**: simulador de golpes digitais (Projeto Integrador, FAMA)
 -  **Ranking de jogadores**: implementação em C com árvore AVL
 -  Projetos em desenvolvimento para praticar lógica, Python e C
