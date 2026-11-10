@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=FF4D94&center=true&vCenter=true&width=650&height=60&repeat=true&lines=printf(%22Ol%C3%A1%2C+mundo!%22)%3B;nome+%3D+%22Wislainy%22;print(%22Estudante+de+Eng.+de+Software+%F0%9F%92%97%22);while+True%3A+aprender()" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1500&pause=500&color=FF4D94&center=true&vCenter=true&width=650&height=60&repeat=true&lines=printf(%22Ol%C3%A1%2C+mundo!%22)%3B;nome+%3D+%22Wislainy%22;print(%22Estudante+de+Eng.+de+Software+%F0%9F%92%97%22);while+True%3A+aprender()" /></a>
 
 </div>
 
@@ -76,5 +76,5 @@ Gosto de entender como as coisas realmente funcionam.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF4D94?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wislainy-santos)
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=100&section=footer" />
+<img src="./ondas.svg" width="100%" alt="Ondas rosas se movendo" />
 </div>
