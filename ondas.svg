@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 130" width="800" height="130" preserveAspectRatio="none">
+  <g transform="translate(0 22)">
+    <path d="M0 40 Q100 0 200 40 T400 40 T600 40 T800 40 T1000 40 T1200 40 T1400 40 T1600 40 V120 H0 Z" fill="#F9A8D4" opacity="0.6">
+      <animateTransform attributeName="transform" type="translate" from="-400 0" to="0 0" dur="9s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(0 36)">
+    <path d="M0 40 Q100 5 200 40 T400 40 T600 40 T800 40 T1000 40 T1200 40 T1400 40 T1600 40 V120 H0 Z" fill="#FF69B4" opacity="0.75">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-400 0" dur="6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(0 50)">
+    <path d="M0 40 Q100 10 200 40 T400 40 T600 40 T800 40 T1000 40 T1200 40 T1400 40 T1600 40 V120 H0 Z" fill="#FF4D94">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-400 0" dur="4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
