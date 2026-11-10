@@ -1,45 +1,80 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
-  <line x1="0" y1="186" x2="800" y2="186" stroke="#F9A8D4" stroke-width="2" stroke-dasharray="4 10" stroke-linecap="round"/>
-  <g>
-    <animateTransform attributeName="transform" type="translate" from="-150 186" to="950 186" dur="18s" repeatCount="indefinite"/>
-    <g transform="scale(1.7)">
-      <g>
-        <animateTransform attributeName="transform" type="translate" values="0 0;0 -2.5;0 0" dur="0.6s" repeatCount="indefinite"/>
-        <g transform="translate(-30 -34)">
-          <g>
-            <animateTransform attributeName="transform" type="rotate" values="-14;14;-14" dur="1.8s" repeatCount="indefinite"/>
-            <path d="M0 0 C-16 -2 -26 -18 -18 -36" fill="none" stroke="#FF69B4" stroke-width="9" stroke-linecap="round"/>
-            <path d="M0 0 C-16 -2 -26 -18 -18 -36" fill="none" stroke="#111" stroke-width="6" stroke-linecap="round"/>
-          </g>
-        </g>
-        <g transform="translate(-22 -16)">
-          <g><animateTransform attributeName="transform" type="rotate" values="-26;26;-26" dur="0.6s" repeatCount="indefinite"/>
-            <line x1="0" y1="0" x2="0" y2="20" stroke="#FF69B4" stroke-width="9" stroke-linecap="round"/>
-            <line x1="0" y1="0" x2="0" y2="20" stroke="#111" stroke-width="6" stroke-linecap="round"/></g>
-        </g>
-        <g transform="translate(-8 -16)">
-          <g><animateTransform attributeName="transform" type="rotate" values="26;-26;26" dur="0.6s" repeatCount="indefinite"/>
-            <line x1="0" y1="0" x2="0" y2="20" stroke="#FF69B4" stroke-width="9" stroke-linecap="round"/>
-            <line x1="0" y1="0" x2="0" y2="20" stroke="#111" stroke-width="6" stroke-linecap="round"/></g>
-        </g>
-        <ellipse cx="0" cy="-30" rx="34" ry="18" fill="#111" stroke="#FF69B4" stroke-width="1.5"/>
-        <g transform="translate(12 -16)">
-          <g><animateTransform attributeName="transform" type="rotate" values="26;-26;26" dur="0.6s" repeatCount="indefinite"/>
-            <line x1="0" y1="0" x2="0" y2="20" stroke="#FF69B4" stroke-width="9" stroke-linecap="round"/>
-            <line x1="0" y1="0" x2="0" y2="20" stroke="#111" stroke-width="6" stroke-linecap="round"/></g>
-        </g>
-        <g transform="translate(26 -16)">
-          <g><animateTransform attributeName="transform" type="rotate" values="-26;26;-26" dur="0.6s" repeatCount="indefinite"/>
-            <line x1="0" y1="0" x2="0" y2="20" stroke="#FF69B4" stroke-width="9" stroke-linecap="round"/>
-            <line x1="0" y1="0" x2="0" y2="20" stroke="#111" stroke-width="6" stroke-linecap="round"/></g>
-        </g>
-        <polygon points="27,-56 29,-74 40,-59" fill="#111" stroke="#FF69B4" stroke-width="1.5" stroke-linejoin="round"/>
-        <polygon points="42,-59 51,-74 53,-55" fill="#111" stroke="#FF69B4" stroke-width="1.5" stroke-linejoin="round"/>
-        <circle cx="40" cy="-46" r="15" fill="#111" stroke="#FF69B4" stroke-width="1.5"/>
-        <circle cx="35" cy="-48" r="2.6" fill="#FF4D94"/>
-        <circle cx="47" cy="-48" r="2.6" fill="#FF4D94"/>
-        <circle cx="52" cy="-43" r="1.6" fill="#F9A8D4"/>
-      </g>
-    </g>
-  </g>
-</svg>
+<div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=FF4D94&center=true&vCenter=true&width=650&height=60&repeat=true&lines=printf(%22Ol%C3%A1%2C+mundo!%22)%3B;nome+%3D+%22Wislainy%22;print(%22Estudante+de+Eng.+de+Software+%F0%9F%92%97%22);while+True%3A+aprender()" /></a>
+
+</div>
+
+<div align="center">
+<img src="./gato.svg" width="100%" alt="Gato preto andando" />
+</div>
+
+<table border="0">
+<tr>
+<td width="45%" align="center" valign="bottom">
+  <img src="./coraline.png" width="100%" alt="Coraline programando" />
+</td>
+<td width="55%" valign="middle">
+
+### Sobre mim
+Sou estudante de **Engenharia de Software** no Centro Universitário FAMA, no 3º semestre (2025–2029).
+
+Gosto de entender como as coisas realmente funcionam.
+🪡 Aprendendo: **C, estruturas de dados e Python**  
+🐈‍⬛ Sempre com um projeto novo na cabeça
+
+</td>
+</tr>
+</table>
+
+---
+
+<details>
+<summary>🪡 <b>O que estou estudando</b> (clique para abrir)</summary>
+<br>
+
+-  Linguagem C e estruturas de dados (BST, AVL)
+-  Python
+-  Estruturas de dados e lógica de programação
+-  Desenvolvimento de projetos pessoais e estudo contínuo
+
+</details>
+
+<details>
+<summary>🧵 <b>Meus projetos</b> (clique para abrir)</summary>
+<br>
+
+-  **Você Cairia Nessa?**: simulador de golpes digitais (Projeto Integrador, FAMA)
+-  **Ranking de jogadores**: implementação em C com árvore AVL
+-  Projetos em desenvolvimento para praticar lógica, Python e C
+
+</details>
+
+<details>
+<summary>🐈‍⬛ <b>Minhas tecnologias</b> (clique para abrir)</summary>
+<br>
+
+![C](https://img.shields.io/badge/C-FF69B4?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF4D94?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-DB2777?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-F9A8D4?style=for-the-badge&logo=github&logoColor=black)
+
+</details>
+
+---
+
+## Meus números
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=wislainycodes-devs&show_icons=true&hide_border=true&bg_color=FFF0F6&title_color=FF4D94&icon_color=FF69B4&text_color=7A3B5C)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=wislainycodes-devs&layout=compact&hide_border=true&bg_color=FFF0F6&title_color=FF4D94&text_color=7A3B5C)
+
+</div>
+
+## outras redes sociais:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF4D94?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wislainy-santos)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=100&section=footer" />
+</div>
