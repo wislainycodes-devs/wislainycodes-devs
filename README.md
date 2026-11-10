@@ -1,15 +1,45 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Wislainy e o gato</title>
-<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&display=swap" rel="stylesheet">
-<style>
-  :root { --bg:#FFF0F6; --rosa:#FF4D94; --claro:#F9A8D4; --texto:#7A3B5C; }
-  * { box-sizing:border-box; }
-  html, body { margin:0; height:100%; overflow:hidden; background:var(--bg); color:var(--texto); font-family:'Fira Code',monospace; }
-  main { position:fixed; top:0; left:0; right:0; padding:28px 20px; text-align:center; pointer-events:none; }
-  h1 { margin:0 0 6px; font-size:clamp(20px,4vw,32px); color:var(--rosa); }
-  p { margin:0; font-size:14px; }
-  button { pointer-events:auto; margin-top:14px; font:600 14px 'Fira
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <line x1="0" y1="186" x2="800" y2="186" stroke="#F9A8D4" stroke-width="2" stroke-dasharray="4 10" stroke-linecap="round"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="-150 186" to="950 186" dur="18s" repeatCount="indefinite"/>
+    <g transform="scale(1.7)">
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -2.5;0 0" dur="0.6s" repeatCount="indefinite"/>
+        <g transform="translate(-30 -34)">
+          <g>
+            <animateTransform attributeName="transform" type="rotate" values="-14;14;-14" dur="1.8s" repeatCount="indefinite"/>
+            <path d="M0 0 C-16 -2 -26 -18 -18 -36" fill="none" stroke="#FF69B4" stroke-width="9" stroke-linecap="round"/>
+            <path d="M0 0 C-16 -2 -26 -18 -18 -36" fill="none" stroke="#111" stroke-width="6" stroke-linecap="round"/>
+          </g>
+        </g>
+        <g transform="translate(-22 -16)">
+          <g><animateTransform attributeName="transform" type="rotate" values="-26;26;-26" dur="0.6s" repeatCount="indefinite"/>
+            <line x1="0" y1="0" x2="0" y2="20" stroke="#FF69B4" stroke-width="9" stroke-linecap="round"/>
+            <line x1="0" y1="0" x2="0" y2="20" stroke="#111" stroke-width="6" stroke-linecap="round"/></g>
+        </g>
+        <g transform="translate(-8 -16)">
+          <g><animateTransform attributeName="transform" type="rotate" values="26;-26;26" dur="0.6s" repeatCount="indefinite"/>
+            <line x1="0" y1="0" x2="0" y2="20" stroke="#FF69B4" stroke-width="9" stroke-linecap="round"/>
+            <line x1="0" y1="0" x2="0" y2="20" stroke="#111" stroke-width="6" stroke-linecap="round"/></g>
+        </g>
+        <ellipse cx="0" cy="-30" rx="34" ry="18" fill="#111" stroke="#FF69B4" stroke-width="1.5"/>
+        <g transform="translate(12 -16)">
+          <g><animateTransform attributeName="transform" type="rotate" values="26;-26;26" dur="0.6s" repeatCount="indefinite"/>
+            <line x1="0" y1="0" x2="0" y2="20" stroke="#FF69B4" stroke-width="9" stroke-linecap="round"/>
+            <line x1="0" y1="0" x2="0" y2="20" stroke="#111" stroke-width="6" stroke-linecap="round"/></g>
+        </g>
+        <g transform="translate(26 -16)">
+          <g><animateTransform attributeName="transform" type="rotate" values="-26;26;-26" dur="0.6s" repeatCount="indefinite"/>
+            <line x1="0" y1="0" x2="0" y2="20" stroke="#FF69B4" stroke-width="9" stroke-linecap="round"/>
+            <line x1="0" y1="0" x2="0" y2="20" stroke="#111" stroke-width="6" stroke-linecap="round"/></g>
+        </g>
+        <polygon points="27,-56 29,-74 40,-59" fill="#111" stroke="#FF69B4" stroke-width="1.5" stroke-linejoin="round"/>
+        <polygon points="42,-59 51,-74 53,-55" fill="#111" stroke="#FF69B4" stroke-width="1.5" stroke-linejoin="round"/>
+        <circle cx="40" cy="-46" r="15" fill="#111" stroke="#FF69B4" stroke-width="1.5"/>
+        <circle cx="35" cy="-48" r="2.6" fill="#FF4D94"/>
+        <circle cx="47" cy="-48" r="2.6" fill="#FF4D94"/>
+        <circle cx="52" cy="-43" r="1.6" fill="#F9A8D4"/>
+      </g>
+    </g>
+  </g>
+</svg>
